@@ -1,7 +1,7 @@
 def find_item_by_name_in_collection(name, collection)
   # Implement me first!
   # takes in string and Array
-  #outputs: nil if no match found /  matching hash
+  # outputs: nil if no match found /  matching hash
   # Consult README for inputs and outputs
 counter = 0
 while counter < collection.length
