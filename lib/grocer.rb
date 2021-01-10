@@ -12,7 +12,6 @@ end
 end
 
 def consolidate_cart(cart)
-  # Consult README for inputs and outputs
   # takes in: array (of hashes)
   # outputs: new array
   # REMEMBER: This returns a new Array that represents the cart. Don't merely
